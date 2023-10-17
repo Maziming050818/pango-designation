@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/HiMsirs/a3848428-f84a-4830-b8a5-0ac156cb5ed4/762414dc-0df8-4b13-9dc0-724dff1deccd/_apis/work/boardbadge/105b16b3-075b-4708-b5f0-f817df0972ab)](https://dev.azure.com/HiMsirs/a3848428-f84a-4830-b8a5-0ac156cb5ed4/_boards/board/t/762414dc-0df8-4b13-9dc0-724dff1deccd/Microsoft.RequirementCategory)
 # Pango designation
 
 The latest maintained Pango-lineage designations.
